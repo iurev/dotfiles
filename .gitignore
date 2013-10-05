@@ -1,0 +1,24 @@
+/*
+!.config/
+.config/*
+
+# Clementine
+!.config/Clementine/Clementine.conf
+
+# Fish-shell
+!.config/fish
+.config/fish/*
+!.config/fish/config.fish
+!.config/fish/functions
+
+# Zsh
+!.zshrc
+
+# Git
+!.gitconfig
+
+# Rubocop
+!.rubocop.yml
+
+# Gitignore
+!.gitignore

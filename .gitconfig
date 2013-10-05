@@ -1,0 +1,18 @@
+[giggle]
+	main-window-maximized = true
+	main-window-geometry = 592x160+0+-4
+	history-view-vpane-position = 324
+	main-window-view = HistoryView
+	file-view-vpane-position = 531
+[user]
+	name = wwju
+	email = wwju@yandex.ru
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	cm = commit
+[core]
+	editor = vim
+[cola]
+	fontdiff = monofur,18,-1,5,50,0,0,0,0,0

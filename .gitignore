@@ -22,3 +22,7 @@
 
 # Gitignore
 !.gitignore
+
+# EasyStroke
+!.easystroke/
+!.easystroke/*

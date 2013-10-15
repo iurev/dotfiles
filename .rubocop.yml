@@ -34,10 +34,6 @@ SpaceAroundOperators:
   Description: 'Use spaces around operators.'
   Enabled: true
 
-SpaceAroundBraces:
-  Description: 'Use spaces around { and before }.'
-  Enabled: true
-
 SpaceInsideParens:
   Description: 'No spaces after ( or before ).'
   Enabled: true

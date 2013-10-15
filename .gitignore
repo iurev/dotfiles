@@ -26,3 +26,7 @@
 # EasyStroke
 !.easystroke/
 !.easystroke/*
+
+# Gitignore global
+!.gitignore_global
+

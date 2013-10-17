@@ -12,6 +12,7 @@
 	br = branch
 	st = status
 	cm = commit
+  mergef = merge --squash
 [core]
 	editor = vim
 	excludesfile = /home/wwju/.gitignore_global

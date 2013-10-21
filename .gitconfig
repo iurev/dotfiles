@@ -13,6 +13,7 @@
 	st = status
 	cm = commit
   mergef = merge --squash
+  cleanfd = clean -fd
 [core]
 	editor = vim
 	excludesfile = /home/wwju/.gitignore_global

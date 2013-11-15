@@ -19,3 +19,6 @@
 	excludesfile = /home/wwju/.gitignore_global
 [cola]
 	fontdiff = monofur,18,-1,5,50,0,0,0,0,0
+[color]
+	diff = true
+	ui = true

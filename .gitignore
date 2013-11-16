@@ -29,3 +29,6 @@
 
 # Taskwarrior
 !.taskrc
+
+# Gitignore global
+!.gitignore_global

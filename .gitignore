@@ -2,9 +2,6 @@
 !.config/
 .config/*
 
-# Clementine
-!.config/Clementine/Clementine.conf
-
 # Fish-shell
 !.config/fish
 .config/fish/*
@@ -22,10 +19,6 @@
 
 # Gitignore
 !.gitignore
-
-# EasyStroke
-!.easystroke/
-!.easystroke/*
 
 # Taskwarrior
 !.taskrc

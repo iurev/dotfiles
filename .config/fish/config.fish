@@ -19,4 +19,5 @@ alias docs='Документы'
 
 alias up='cd ..'
 
-
+set -x DATABASE_URL 'postgres://wwju:123123@localhost:5432/pktu_dev'
+rvm use 2.1.0 --default

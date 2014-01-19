@@ -1,7 +1,7 @@
 
 alias st='sudo systemctl start '
 alias apt='sudo apt-get '
-alias trans='sdcv '
+alias trans='sdcv --data-dir ~/.stardict/dicts'
 alias temp='acpi -t'
 alias gitundo='git reset --hard; git reset -fd'
 

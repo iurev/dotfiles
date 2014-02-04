@@ -22,3 +22,5 @@
 [color]
 	diff = true
 	ui = true
+[push]
+	default = current

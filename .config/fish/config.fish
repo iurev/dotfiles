@@ -19,4 +19,10 @@ alias docs='Документы'
 
 alias up='cd ..'
 
-rvm use 2.1.0 --default
+set fish_path $HOME/.oh-my-fish
+. $fish_path/oh-my-fish.fish
+set fish_plugins rails git rvm bundler
+
+set -x PATH $HOME/.rbenv/bin $PATH
+set -x PATH $HOME/.rbenv/shims $PATH
+rbenv rehash >/dev/null ^&1
